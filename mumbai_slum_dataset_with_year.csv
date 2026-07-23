@@ -1,0 +1,81 @@
+City/District,Area_Name,Year,Population,Slum_Population,Water_Supply_Liters_Per_Day,Water_Demand_Liters_Per_Day,Waste_Generated_Tons_Per_Day,Waste_Collected_Tons_Per_Day,Waste_Collection_Efficiency,Healthcare_Facilities,Sanitation_Facilities,Electricity_Access,Education_Facilities,Employment_Rate,Avg_Income,Type_of_Waste,Water_Quality_Index,Air_Quality_Index,Drainage_System,Major_Issues,Waste_Percentage,Water_Scarcity_Level
+Mumbai,Dharavi 1,2020,200000,200000,10000000,18000000,150,100,65,5,50,Partial,15,55,8000,Mixed,45,140,Poor,Water;Waste;Sanitation,25,High
+Mumbai,Govandi Slum 2,2021,205000,205000,10200000,18300000,155,104,66,6,51,Partial,16,56,8100,Mixed,46,141,Moderate,Water;Waste;Sanitation,26,Moderate
+Mumbai,Mankhurd Slum 3,2022,210000,210000,10400000,18600000,160,108,67,7,52,Partial,17,57,8200,Mixed,47,142,Poor,Water;Waste;Sanitation,27,Moderate
+Mumbai,Chembur Slum Area 4,2023,215000,215000,10600000,18900000,165,112,68,8,53,Partial,18,58,8300,Mixed,48,143,Moderate,Water;Waste;Sanitation,28,High
+Mumbai,Kurla Slum Area 5,2024,220000,220000,10800000,19200000,170,116,69,9,54,Partial,19,59,8400,Mixed,49,144,Poor,Water;Waste;Sanitation,29,Moderate
+Mumbai,Malad Slum Area 6,2020,225000,225000,11000000,19500000,175,120,70,5,55,Partial,20,60,8500,Mixed,50,145,Moderate,Water;Waste;Sanitation,30,Moderate
+Mumbai,Kandivali Slum Area 7,2021,230000,230000,11200000,19800000,180,124,71,6,56,Partial,21,61,8600,Mixed,51,146,Poor,Water;Waste;Sanitation,31,High
+Mumbai,Bandra Slum Pockets 8,2022,235000,235000,11400000,20100000,185,128,72,7,57,Partial,22,62,8700,Mixed,52,147,Moderate,Water;Waste;Sanitation,32,Moderate
+Mumbai,Sion Slum Area 9,2023,240000,240000,11600000,20400000,190,132,73,8,58,Partial,23,63,8800,Mixed,53,148,Poor,Water;Waste;Sanitation,33,Moderate
+Mumbai,Andheri Slum Area 10,2024,245000,245000,11800000,20700000,195,136,74,9,59,Partial,24,64,8900,Mixed,54,149,Moderate,Water;Waste;Sanitation,34,High
+Mumbai,Dharavi 11,2020,250000,250000,12000000,21000000,200,140,65,5,60,Partial,15,55,9000,Mixed,55,150,Poor,Water;Waste;Sanitation,25,Moderate
+Mumbai,Govandi Slum 12,2021,255000,255000,12200000,21300000,205,144,66,6,61,Partial,16,56,9100,Mixed,56,151,Moderate,Water;Waste;Sanitation,26,Moderate
+Mumbai,Mankhurd Slum 13,2022,260000,260000,12400000,21600000,210,148,67,7,62,Partial,17,57,9200,Mixed,57,152,Poor,Water;Waste;Sanitation,27,High
+Mumbai,Chembur Slum Area 14,2023,265000,265000,12600000,21900000,215,152,68,8,63,Partial,18,58,9300,Mixed,58,153,Moderate,Water;Waste;Sanitation,28,Moderate
+Mumbai,Kurla Slum Area 15,2024,270000,270000,12800000,22200000,220,156,69,9,64,Partial,19,59,9400,Mixed,59,154,Poor,Water;Waste;Sanitation,29,Moderate
+Mumbai,Malad Slum Area 16,2020,275000,275000,13000000,22500000,225,160,70,5,65,Partial,20,60,9500,Mixed,45,155,Moderate,Water;Waste;Sanitation,30,High
+Mumbai,Kandivali Slum Area 17,2021,280000,280000,13200000,22800000,230,164,71,6,66,Partial,21,61,9600,Mixed,46,156,Poor,Water;Waste;Sanitation,31,Moderate
+Mumbai,Bandra Slum Pockets 18,2022,285000,285000,13400000,23100000,235,168,72,7,67,Partial,22,62,9700,Mixed,47,157,Moderate,Water;Waste;Sanitation,32,Moderate
+Mumbai,Sion Slum Area 19,2023,290000,290000,13600000,23400000,240,172,73,8,68,Partial,23,63,9800,Mixed,48,158,Poor,Water;Waste;Sanitation,33,High
+Mumbai,Andheri Slum Area 20,2024,295000,295000,13800000,23700000,245,176,74,9,69,Partial,24,64,9900,Mixed,49,159,Moderate,Water;Waste;Sanitation,34,Moderate
+Mumbai,Dharavi 21,2020,300000,300000,14000000,24000000,250,180,65,5,50,Partial,15,55,10000,Mixed,50,160,Poor,Water;Waste;Sanitation,25,Moderate
+Mumbai,Govandi Slum 22,2021,305000,305000,14200000,24300000,255,184,66,6,51,Partial,16,56,10100,Mixed,51,161,Moderate,Water;Waste;Sanitation,26,High
+Mumbai,Mankhurd Slum 23,2022,310000,310000,14400000,24600000,260,188,67,7,52,Partial,17,57,10200,Mixed,52,162,Poor,Water;Waste;Sanitation,27,Moderate
+Mumbai,Chembur Slum Area 24,2023,315000,315000,14600000,24900000,265,192,68,8,53,Partial,18,58,10300,Mixed,53,163,Moderate,Water;Waste;Sanitation,28,Moderate
+Mumbai,Kurla Slum Area 25,2024,320000,320000,14800000,25200000,270,196,69,9,54,Partial,19,59,10400,Mixed,54,164,Poor,Water;Waste;Sanitation,29,High
+Mumbai,Malad Slum Area 26,2020,325000,325000,15000000,25500000,275,200,70,5,55,Partial,20,60,10500,Mixed,55,165,Moderate,Water;Waste;Sanitation,30,Moderate
+Mumbai,Kandivali Slum Area 27,2021,330000,330000,15200000,25800000,280,204,71,6,56,Partial,21,61,10600,Mixed,56,166,Poor,Water;Waste;Sanitation,31,Moderate
+Mumbai,Bandra Slum Pockets 28,2022,335000,335000,15400000,26100000,285,208,72,7,57,Partial,22,62,10700,Mixed,57,167,Moderate,Water;Waste;Sanitation,32,High
+Mumbai,Sion Slum Area 29,2023,340000,340000,15600000,26400000,290,212,73,8,58,Partial,23,63,10800,Mixed,58,168,Poor,Water;Waste;Sanitation,33,Moderate
+Mumbai,Andheri Slum Area 30,2024,345000,345000,15800000,26700000,295,216,74,9,59,Partial,24,64,10900,Mixed,59,169,Moderate,Water;Waste;Sanitation,34,Moderate
+Mumbai,Dharavi 31,2020,350000,350000,16000000,27000000,300,220,65,5,60,Partial,15,55,11000,Mixed,45,170,Poor,Water;Waste;Sanitation,25,High
+Mumbai,Govandi Slum 32,2021,355000,355000,16200000,27300000,305,224,66,6,61,Partial,16,56,11100,Mixed,46,171,Moderate,Water;Waste;Sanitation,26,Moderate
+Mumbai,Mankhurd Slum 33,2022,360000,360000,16400000,27600000,310,228,67,7,62,Partial,17,57,11200,Mixed,47,172,Poor,Water;Waste;Sanitation,27,Moderate
+Mumbai,Chembur Slum Area 34,2023,365000,365000,16600000,27900000,315,232,68,8,63,Partial,18,58,11300,Mixed,48,173,Moderate,Water;Waste;Sanitation,28,High
+Mumbai,Kurla Slum Area 35,2024,370000,370000,16800000,28200000,320,236,69,9,64,Partial,19,59,11400,Mixed,49,174,Poor,Water;Waste;Sanitation,29,Moderate
+Mumbai,Malad Slum Area 36,2020,375000,375000,17000000,28500000,325,240,70,5,65,Partial,20,60,11500,Mixed,50,175,Moderate,Water;Waste;Sanitation,30,Moderate
+Mumbai,Kandivali Slum Area 37,2021,380000,380000,17200000,28800000,330,244,71,6,66,Partial,21,61,11600,Mixed,51,176,Poor,Water;Waste;Sanitation,31,High
+Mumbai,Bandra Slum Pockets 38,2022,385000,385000,17400000,29100000,335,248,72,7,67,Partial,22,62,11700,Mixed,52,177,Moderate,Water;Waste;Sanitation,32,Moderate
+Mumbai,Sion Slum Area 39,2023,390000,390000,17600000,29400000,340,252,73,8,68,Partial,23,63,11800,Mixed,53,178,Poor,Water;Waste;Sanitation,33,Moderate
+Mumbai,Andheri Slum Area 40,2024,395000,395000,17800000,29700000,345,256,74,9,69,Partial,24,64,11900,Mixed,54,179,Moderate,Water;Waste;Sanitation,34,High
+Mumbai,Dharavi 41,2020,400000,400000,18000000,30000000,350,260,65,5,50,Partial,15,55,12000,Mixed,55,140,Poor,Water;Waste;Sanitation,25,Moderate
+Mumbai,Govandi Slum 42,2021,405000,405000,18200000,30300000,355,264,66,6,51,Partial,16,56,12100,Mixed,56,141,Moderate,Water;Waste;Sanitation,26,Moderate
+Mumbai,Mankhurd Slum 43,2022,410000,410000,18400000,30600000,360,268,67,7,52,Partial,17,57,12200,Mixed,57,142,Poor,Water;Waste;Sanitation,27,High
+Mumbai,Chembur Slum Area 44,2023,415000,415000,18600000,30900000,365,272,68,8,53,Partial,18,58,12300,Mixed,58,143,Moderate,Water;Waste;Sanitation,28,Moderate
+Mumbai,Kurla Slum Area 45,2024,420000,420000,18800000,31200000,370,276,69,9,54,Partial,19,59,12400,Mixed,59,144,Poor,Water;Waste;Sanitation,29,Moderate
+Mumbai,Malad Slum Area 46,2020,425000,425000,19000000,31500000,375,280,70,5,55,Partial,20,60,12500,Mixed,45,145,Moderate,Water;Waste;Sanitation,30,High
+Mumbai,Kandivali Slum Area 47,2021,430000,430000,19200000,31800000,380,284,71,6,56,Partial,21,61,12600,Mixed,46,146,Poor,Water;Waste;Sanitation,31,Moderate
+Mumbai,Bandra Slum Pockets 48,2022,435000,435000,19400000,32100000,385,288,72,7,57,Partial,22,62,12700,Mixed,47,147,Moderate,Water;Waste;Sanitation,32,Moderate
+Mumbai,Sion Slum Area 49,2023,440000,440000,19600000,32400000,390,292,73,8,58,Partial,23,63,12800,Mixed,48,148,Poor,Water;Waste;Sanitation,33,High
+Mumbai,Andheri Slum Area 50,2024,445000,445000,19800000,32700000,395,296,74,9,59,Partial,24,64,12900,Mixed,49,149,Moderate,Water;Waste;Sanitation,34,Moderate
+Mumbai,Dharavi 51,2020,450000,450000,20000000,33000000,400,300,65,5,60,Partial,15,55,13000,Mixed,50,150,Poor,Water;Waste;Sanitation,25,Moderate
+Mumbai,Govandi Slum 52,2021,455000,455000,20200000,33300000,405,304,66,6,61,Partial,16,56,13100,Mixed,51,151,Moderate,Water;Waste;Sanitation,26,High
+Mumbai,Mankhurd Slum 53,2022,460000,460000,20400000,33600000,410,308,67,7,62,Partial,17,57,13200,Mixed,52,152,Poor,Water;Waste;Sanitation,27,Moderate
+Mumbai,Chembur Slum Area 54,2023,465000,465000,20600000,33900000,415,312,68,8,63,Partial,18,58,13300,Mixed,53,153,Moderate,Water;Waste;Sanitation,28,Moderate
+Mumbai,Kurla Slum Area 55,2024,470000,470000,20800000,34200000,420,316,69,9,64,Partial,19,59,13400,Mixed,54,154,Poor,Water;Waste;Sanitation,29,High
+Mumbai,Malad Slum Area 56,2020,475000,475000,21000000,34500000,425,320,70,5,65,Partial,20,60,13500,Mixed,55,155,Moderate,Water;Waste;Sanitation,30,Moderate
+Mumbai,Kandivali Slum Area 57,2021,480000,480000,21200000,34800000,430,324,71,6,66,Partial,21,61,13600,Mixed,56,156,Poor,Water;Waste;Sanitation,31,Moderate
+Mumbai,Bandra Slum Pockets 58,2022,485000,485000,21400000,35100000,435,328,72,7,67,Partial,22,62,13700,Mixed,57,157,Moderate,Water;Waste;Sanitation,32,High
+Mumbai,Sion Slum Area 59,2023,490000,490000,21600000,35400000,440,332,73,8,68,Partial,23,63,13800,Mixed,58,158,Poor,Water;Waste;Sanitation,33,Moderate
+Mumbai,Andheri Slum Area 60,2024,495000,495000,21800000,35700000,445,336,74,9,69,Partial,24,64,13900,Mixed,59,159,Moderate,Water;Waste;Sanitation,34,Moderate
+Mumbai,Dharavi 61,2020,500000,500000,22000000,36000000,450,340,65,5,50,Partial,15,55,14000,Mixed,45,160,Poor,Water;Waste;Sanitation,25,High
+Mumbai,Govandi Slum 62,2021,505000,505000,22200000,36300000,455,344,66,6,51,Partial,16,56,14100,Mixed,46,161,Moderate,Water;Waste;Sanitation,26,Moderate
+Mumbai,Mankhurd Slum 63,2022,510000,510000,22400000,36600000,460,348,67,7,52,Partial,17,57,14200,Mixed,47,162,Poor,Water;Waste;Sanitation,27,Moderate
+Mumbai,Chembur Slum Area 64,2023,515000,515000,22600000,36900000,465,352,68,8,53,Partial,18,58,14300,Mixed,48,163,Moderate,Water;Waste;Sanitation,28,High
+Mumbai,Kurla Slum Area 65,2024,520000,520000,22800000,37200000,470,356,69,9,54,Partial,19,59,14400,Mixed,49,164,Poor,Water;Waste;Sanitation,29,Moderate
+Mumbai,Malad Slum Area 66,2020,525000,525000,23000000,37500000,475,360,70,5,55,Partial,20,60,14500,Mixed,50,165,Moderate,Water;Waste;Sanitation,30,Moderate
+Mumbai,Kandivali Slum Area 67,2021,530000,530000,23200000,37800000,480,364,71,6,56,Partial,21,61,14600,Mixed,51,166,Poor,Water;Waste;Sanitation,31,High
+Mumbai,Bandra Slum Pockets 68,2022,535000,535000,23400000,38100000,485,368,72,7,57,Partial,22,62,14700,Mixed,52,167,Moderate,Water;Waste;Sanitation,32,Moderate
+Mumbai,Sion Slum Area 69,2023,540000,540000,23600000,38400000,490,372,73,8,58,Partial,23,63,14800,Mixed,53,168,Poor,Water;Waste;Sanitation,33,Moderate
+Mumbai,Andheri Slum Area 70,2024,545000,545000,23800000,38700000,495,376,74,9,59,Partial,24,64,14900,Mixed,54,169,Moderate,Water;Waste;Sanitation,34,High
+Mumbai,Dharavi 71,2020,550000,550000,24000000,39000000,500,380,65,5,60,Partial,15,55,15000,Mixed,55,170,Poor,Water;Waste;Sanitation,25,Moderate
+Mumbai,Govandi Slum 72,2021,555000,555000,24200000,39300000,505,384,66,6,61,Partial,16,56,15100,Mixed,56,171,Moderate,Water;Waste;Sanitation,26,Moderate
+Mumbai,Mankhurd Slum 73,2022,560000,560000,24400000,39600000,510,388,67,7,62,Partial,17,57,15200,Mixed,57,172,Poor,Water;Waste;Sanitation,27,High
+Mumbai,Chembur Slum Area 74,2023,565000,565000,24600000,39900000,515,392,68,8,63,Partial,18,58,15300,Mixed,58,173,Moderate,Water;Waste;Sanitation,28,Moderate
+Mumbai,Kurla Slum Area 75,2024,570000,570000,24800000,40200000,520,396,69,9,64,Partial,19,59,15400,Mixed,59,174,Poor,Water;Waste;Sanitation,29,Moderate
+Mumbai,Malad Slum Area 76,2020,575000,575000,25000000,40500000,525,400,70,5,65,Partial,20,60,15500,Mixed,45,175,Moderate,Water;Waste;Sanitation,30,High
+Mumbai,Kandivali Slum Area 77,2021,580000,580000,25200000,40800000,530,404,71,6,66,Partial,21,61,15600,Mixed,46,176,Poor,Water;Waste;Sanitation,31,Moderate
+Mumbai,Bandra Slum Pockets 78,2022,585000,585000,25400000,41100000,535,408,72,7,67,Partial,22,62,15700,Mixed,47,177,Moderate,Water;Waste;Sanitation,32,Moderate
+Mumbai,Sion Slum Area 79,2023,590000,590000,25600000,41400000,540,412,73,8,68,Partial,23,63,15800,Mixed,48,178,Poor,Water;Waste;Sanitation,33,High
+Mumbai,Andheri Slum Area 80,2024,595000,595000,25800000,41700000,545,416,74,9,69,Partial,24,64,15900,Mixed,49,179,Moderate,Water;Waste;Sanitation,34,Moderate
