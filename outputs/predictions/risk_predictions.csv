@@ -1,0 +1,733 @@
+date,zone_id,zone_name,risk_score,actual_risk,predicted_risk
+2024-12-10,Z10,Shahu Nagar,57.5,Low,Low
+2024-06-14,Z06,Kala Killa,73.2,Medium,Medium
+2024-07-21,Z06,Kala Killa,84.7,High,High
+2024-01-14,Z10,Shahu Nagar,55.7,Low,Low
+2024-01-04,Z03,90 Feet Road,54.1,Low,Low
+2024-06-23,Z02,Koliwada,89.0,High,High
+2024-01-17,Z01,Kumbharwada (Potters Colony),56.5,Low,Low
+2024-12-16,Z05,Dharavi Cross Road,60.8,Medium,Medium
+2024-02-03,Z09,Rajiv Gandhi Nagar,49.9,Low,Low
+2024-04-19,Z09,Rajiv Gandhi Nagar,52.2,Low,Low
+2024-12-04,Z02,Koliwada,56.2,Low,Low
+2024-09-12,Z03,90 Feet Road,62.0,Medium,Medium
+2024-08-18,Z02,Koliwada,86.5,High,High
+2024-08-10,Z06,Kala Killa,84.4,High,High
+2024-10-23,Z06,Kala Killa,62.1,Medium,Medium
+2024-09-24,Z05,Dharavi Cross Road,85.5,High,High
+2024-01-13,Z06,Kala Killa,54.2,Low,Low
+2024-03-30,Z06,Kala Killa,53.4,Low,Low
+2024-12-09,Z08,Social Nagar,55.1,Low,Low
+2024-11-06,Z09,Rajiv Gandhi Nagar,57.8,Low,Low
+2024-09-19,Z09,Rajiv Gandhi Nagar,70.0,Medium,Medium
+2024-09-22,Z05,Dharavi Cross Road,85.8,High,High
+2024-01-08,Z06,Kala Killa,53.4,Low,Low
+2024-03-06,Z08,Social Nagar,53.4,Low,Low
+2024-09-05,Z10,Shahu Nagar,74.2,Medium,Medium
+2024-11-20,Z10,Shahu Nagar,57.5,Low,Low
+2024-07-09,Z01,Kumbharwada (Potters Colony),86.4,High,High
+2024-10-01,Z05,Dharavi Cross Road,66.8,Medium,Medium
+2024-04-01,Z03,90 Feet Road,54.9,Low,Low
+2024-01-24,Z04,60 Feet Road,56.7,Low,Low
+2024-04-13,Z05,Dharavi Cross Road,63.1,Medium,Medium
+2024-07-12,Z05,Dharavi Cross Road,86.7,High,High
+2024-05-18,Z01,Kumbharwada (Potters Colony),66.9,Medium,Medium
+2024-02-21,Z04,60 Feet Road,59.0,Low,Low
+2024-10-05,Z08,Social Nagar,72.5,Medium,Medium
+2024-08-15,Z07,Matunga Labour Camp (adjoining),75.3,High,Medium
+2024-04-22,Z04,60 Feet Road,57.0,Low,Low
+2024-07-22,Z09,Rajiv Gandhi Nagar,82.0,High,High
+2024-04-09,Z01,Kumbharwada (Potters Colony),61.0,Medium,Medium
+2024-04-28,Z02,Koliwada,55.7,Low,Low
+2024-11-06,Z06,Kala Killa,65.3,Medium,Medium
+2024-04-14,Z04,60 Feet Road,55.4,Low,Low
+2024-03-19,Z01,Kumbharwada (Potters Colony),61.8,Medium,Medium
+2024-10-15,Z06,Kala Killa,59.2,Low,Low
+2024-02-01,Z02,Koliwada,57.5,Low,Low
+2024-07-31,Z07,Matunga Labour Camp (adjoining),85.1,High,High
+2024-07-23,Z09,Rajiv Gandhi Nagar,73.1,Medium,Medium
+2024-03-02,Z09,Rajiv Gandhi Nagar,52.8,Low,Low
+2024-08-12,Z10,Shahu Nagar,80.1,High,High
+2024-10-24,Z01,Kumbharwada (Potters Colony),80.7,High,High
+2024-06-01,Z04,60 Feet Road,85.8,High,High
+2024-04-12,Z04,60 Feet Road,53.1,Low,Low
+2024-12-28,Z03,90 Feet Road,57.8,Low,Low
+2024-04-12,Z01,Kumbharwada (Potters Colony),60.0,Medium,Medium
+2024-12-08,Z04,60 Feet Road,54.7,Low,Low
+2024-10-20,Z02,Koliwada,61.2,Medium,Medium
+2024-06-03,Z01,Kumbharwada (Potters Colony),89.5,High,High
+2024-04-20,Z05,Dharavi Cross Road,56.6,Low,Low
+2024-09-16,Z04,60 Feet Road,71.5,Medium,Medium
+2024-05-24,Z09,Rajiv Gandhi Nagar,56.6,Low,Low
+2024-11-23,Z06,Kala Killa,58.8,Low,Low
+2024-01-15,Z01,Kumbharwada (Potters Colony),57.8,Low,Low
+2024-12-26,Z06,Kala Killa,54.4,Low,Low
+2024-10-25,Z01,Kumbharwada (Potters Colony),77.7,High,High
+2024-01-17,Z08,Social Nagar,53.0,Low,Low
+2024-09-25,Z03,90 Feet Road,78.1,High,High
+2024-08-08,Z01,Kumbharwada (Potters Colony),84.6,High,High
+2024-11-23,Z07,Matunga Labour Camp (adjoining),54.0,Low,Low
+2024-03-28,Z09,Rajiv Gandhi Nagar,53.3,Low,Low
+2024-05-02,Z06,Kala Killa,56.1,Low,Low
+2024-06-02,Z04,60 Feet Road,86.8,High,High
+2024-11-01,Z06,Kala Killa,62.2,Medium,Medium
+2024-05-29,Z04,60 Feet Road,67.8,Medium,Medium
+2024-05-28,Z08,Social Nagar,54.0,Low,Low
+2024-12-02,Z10,Shahu Nagar,56.3,Low,Low
+2024-07-13,Z01,Kumbharwada (Potters Colony),88.9,High,High
+2024-01-07,Z10,Shahu Nagar,58.9,Low,Low
+2024-10-24,Z05,Dharavi Cross Road,67.7,Medium,Medium
+2024-03-24,Z02,Koliwada,57.2,Low,Low
+2024-11-05,Z08,Social Nagar,58.4,Low,Low
+2024-06-26,Z04,60 Feet Road,86.0,High,High
+2024-01-06,Z10,Shahu Nagar,55.9,Low,Low
+2024-02-22,Z09,Rajiv Gandhi Nagar,54.2,Low,Low
+2024-12-24,Z03,90 Feet Road,59.1,Low,Low
+2024-04-29,Z09,Rajiv Gandhi Nagar,53.7,Low,Low
+2024-05-06,Z04,60 Feet Road,53.7,Low,Low
+2024-07-22,Z07,Matunga Labour Camp (adjoining),82.0,High,High
+2024-04-22,Z06,Kala Killa,54.2,Low,Low
+2024-05-13,Z10,Shahu Nagar,68.3,Medium,Medium
+2024-08-28,Z05,Dharavi Cross Road,87.3,High,High
+2024-11-03,Z04,60 Feet Road,59.1,Low,Low
+2024-09-23,Z08,Social Nagar,79.3,High,High
+2024-08-10,Z03,90 Feet Road,82.8,High,High
+2024-11-05,Z03,90 Feet Road,57.1,Low,Low
+2024-12-11,Z01,Kumbharwada (Potters Colony),59.9,Low,Low
+2024-11-05,Z02,Koliwada,56.5,Low,Low
+2024-09-16,Z05,Dharavi Cross Road,87.4,High,High
+2024-06-18,Z10,Shahu Nagar,61.0,Medium,Medium
+2024-09-29,Z10,Shahu Nagar,64.2,Medium,Medium
+2024-12-14,Z09,Rajiv Gandhi Nagar,51.3,Low,Low
+2024-08-20,Z09,Rajiv Gandhi Nagar,84.5,High,High
+2024-03-31,Z04,60 Feet Road,56.8,Low,Low
+2024-08-17,Z03,90 Feet Road,82.0,High,High
+2024-08-21,Z08,Social Nagar,84.6,High,High
+2024-04-06,Z09,Rajiv Gandhi Nagar,52.1,Low,Low
+2024-10-31,Z03,90 Feet Road,72.3,Medium,Medium
+2024-02-27,Z09,Rajiv Gandhi Nagar,52.7,Low,Low
+2024-02-20,Z10,Shahu Nagar,53.3,Low,Low
+2024-02-06,Z08,Social Nagar,58.7,Low,Low
+2024-10-17,Z08,Social Nagar,58.0,Low,Low
+2024-01-26,Z07,Matunga Labour Camp (adjoining),52.4,Low,Low
+2024-01-09,Z01,Kumbharwada (Potters Colony),60.4,Medium,Medium
+2024-05-25,Z03,90 Feet Road,53.6,Low,Low
+2024-01-02,Z10,Shahu Nagar,58.0,Low,Low
+2024-08-21,Z10,Shahu Nagar,85.4,High,High
+2024-10-29,Z08,Social Nagar,64.8,Medium,Medium
+2024-04-20,Z08,Social Nagar,53.9,Low,Low
+2024-02-07,Z01,Kumbharwada (Potters Colony),59.8,Low,Low
+2024-06-15,Z06,Kala Killa,84.5,High,High
+2024-02-26,Z05,Dharavi Cross Road,58.1,Low,Low
+2024-08-11,Z03,90 Feet Road,87.2,High,High
+2024-06-04,Z07,Matunga Labour Camp (adjoining),81.3,High,High
+2024-10-22,Z06,Kala Killa,64.6,Medium,Medium
+2024-08-01,Z06,Kala Killa,84.4,High,High
+2024-04-30,Z04,60 Feet Road,55.6,Low,Low
+2024-04-11,Z04,60 Feet Road,53.5,Low,Low
+2024-05-14,Z01,Kumbharwada (Potters Colony),63.8,Medium,Medium
+2024-01-15,Z03,90 Feet Road,55.0,Low,Low
+2024-01-11,Z08,Social Nagar,53.2,Low,Low
+2024-04-28,Z01,Kumbharwada (Potters Colony),61.0,Medium,Medium
+2024-05-21,Z03,90 Feet Road,61.5,Medium,Medium
+2024-08-04,Z08,Social Nagar,86.0,High,High
+2024-10-26,Z08,Social Nagar,54.9,Low,Low
+2024-10-14,Z08,Social Nagar,66.0,Medium,Medium
+2024-08-30,Z05,Dharavi Cross Road,89.3,High,High
+2024-11-27,Z04,60 Feet Road,62.0,Medium,Medium
+2024-06-27,Z02,Koliwada,85.1,High,High
+2024-05-10,Z02,Koliwada,59.2,Low,Low
+2024-12-02,Z02,Koliwada,60.9,Medium,Medium
+2024-12-20,Z06,Kala Killa,56.4,Low,Low
+2024-10-07,Z10,Shahu Nagar,62.0,Medium,Medium
+2024-02-02,Z02,Koliwada,56.1,Low,Low
+2024-12-11,Z09,Rajiv Gandhi Nagar,53.3,Low,Low
+2024-12-01,Z06,Kala Killa,56.8,Low,Low
+2024-03-20,Z08,Social Nagar,59.3,Low,Low
+2024-11-15,Z06,Kala Killa,56.8,Low,Low
+2024-06-23,Z08,Social Nagar,79.0,High,High
+2024-08-29,Z04,60 Feet Road,85.8,High,High
+2024-04-30,Z09,Rajiv Gandhi Nagar,57.4,Low,Low
+2024-08-06,Z05,Dharavi Cross Road,85.2,High,High
+2024-11-12,Z05,Dharavi Cross Road,69.8,Medium,Medium
+2024-03-18,Z08,Social Nagar,53.1,Low,Low
+2024-08-03,Z02,Koliwada,88.6,High,High
+2024-05-21,Z04,60 Feet Road,60.8,Medium,Medium
+2024-09-20,Z08,Social Nagar,72.0,Medium,Medium
+2024-10-08,Z06,Kala Killa,69.9,Medium,Medium
+2024-07-14,Z04,60 Feet Road,83.9,High,High
+2024-06-23,Z07,Matunga Labour Camp (adjoining),85.2,High,High
+2024-10-17,Z07,Matunga Labour Camp (adjoining),60.6,Medium,Low
+2024-05-30,Z04,60 Feet Road,71.0,Medium,Medium
+2024-10-26,Z02,Koliwada,61.3,Medium,Medium
+2024-03-29,Z05,Dharavi Cross Road,58.4,Low,Low
+2024-04-20,Z01,Kumbharwada (Potters Colony),60.8,Medium,Medium
+2024-08-30,Z08,Social Nagar,84.0,High,High
+2024-02-23,Z01,Kumbharwada (Potters Colony),55.8,Low,Low
+2024-04-22,Z03,90 Feet Road,55.5,Low,Low
+2024-01-20,Z07,Matunga Labour Camp (adjoining),51.9,Low,Low
+2024-09-27,Z08,Social Nagar,61.4,Medium,Low
+2024-11-21,Z06,Kala Killa,54.9,Low,Low
+2024-03-22,Z06,Kala Killa,54.8,Low,Low
+2024-12-10,Z03,90 Feet Road,56.6,Low,Low
+2024-10-28,Z08,Social Nagar,57.7,Low,Low
+2024-06-21,Z07,Matunga Labour Camp (adjoining),80.8,High,High
+2024-01-30,Z04,60 Feet Road,53.6,Low,Low
+2024-01-15,Z04,60 Feet Road,59.1,Low,Low
+2024-08-19,Z03,90 Feet Road,86.5,High,High
+2024-08-31,Z07,Matunga Labour Camp (adjoining),83.1,High,High
+2024-12-19,Z03,90 Feet Road,51.6,Low,Low
+2024-05-05,Z04,60 Feet Road,58.2,Low,Low
+2024-02-02,Z08,Social Nagar,55.1,Low,Low
+2024-04-14,Z02,Koliwada,58.9,Low,Low
+2024-10-03,Z03,90 Feet Road,62.9,Medium,Medium
+2024-11-04,Z09,Rajiv Gandhi Nagar,54.7,Low,Low
+2024-10-14,Z03,90 Feet Road,63.5,Medium,Medium
+2024-07-07,Z04,60 Feet Road,83.0,High,High
+2024-09-21,Z03,90 Feet Road,84.7,High,High
+2024-11-01,Z04,60 Feet Road,61.8,Medium,Medium
+2024-04-18,Z10,Shahu Nagar,57.3,Low,Low
+2024-03-15,Z10,Shahu Nagar,55.7,Low,Low
+2024-11-27,Z10,Shahu Nagar,55.6,Low,Low
+2024-12-23,Z05,Dharavi Cross Road,57.9,Low,Low
+2024-04-30,Z08,Social Nagar,52.7,Low,Low
+2024-10-13,Z04,60 Feet Road,85.1,High,High
+2024-08-16,Z01,Kumbharwada (Potters Colony),84.1,High,High
+2024-07-03,Z06,Kala Killa,84.7,High,High
+2024-12-22,Z06,Kala Killa,58.4,Low,Low
+2024-08-29,Z07,Matunga Labour Camp (adjoining),82.7,High,High
+2024-09-12,Z08,Social Nagar,85.2,High,High
+2024-01-06,Z02,Koliwada,57.4,Low,Low
+2024-12-06,Z03,90 Feet Road,60.5,Medium,Medium
+2024-05-04,Z04,60 Feet Road,53.3,Low,Low
+2024-10-24,Z07,Matunga Labour Camp (adjoining),77.0,High,High
+2024-05-11,Z04,60 Feet Road,58.0,Low,Low
+2024-11-27,Z02,Koliwada,59.9,Low,Low
+2024-03-25,Z08,Social Nagar,53.2,Low,Low
+2024-11-07,Z10,Shahu Nagar,57.4,Low,Low
+2024-08-09,Z04,60 Feet Road,86.1,High,High
+2024-05-30,Z03,90 Feet Road,71.3,Medium,Medium
+2024-03-29,Z07,Matunga Labour Camp (adjoining),58.3,Low,Low
+2024-03-23,Z08,Social Nagar,55.5,Low,Low
+2024-06-26,Z02,Koliwada,85.6,High,High
+2024-09-17,Z08,Social Nagar,84.3,High,High
+2024-10-06,Z07,Matunga Labour Camp (adjoining),54.0,Low,Low
+2024-06-03,Z02,Koliwada,74.8,Medium,Medium
+2024-06-19,Z05,Dharavi Cross Road,88.1,High,High
+2024-03-05,Z10,Shahu Nagar,57.3,Low,Low
+2024-07-24,Z09,Rajiv Gandhi Nagar,82.7,High,High
+2024-11-22,Z10,Shahu Nagar,67.4,Medium,Medium
+2024-03-13,Z01,Kumbharwada (Potters Colony),58.9,Low,Low
+2024-05-26,Z05,Dharavi Cross Road,66.5,Medium,Medium
+2024-01-19,Z02,Koliwada,58.0,Low,Low
+2024-03-12,Z09,Rajiv Gandhi Nagar,55.2,Low,Low
+2024-01-05,Z06,Kala Killa,52.9,Low,Low
+2024-08-28,Z03,90 Feet Road,83.9,High,High
+2024-02-26,Z02,Koliwada,54.7,Low,Low
+2024-08-22,Z03,90 Feet Road,83.6,High,High
+2024-11-08,Z03,90 Feet Road,57.2,Low,Low
+2024-06-10,Z03,90 Feet Road,84.8,High,High
+2024-10-18,Z06,Kala Killa,59.6,Low,Low
+2024-08-26,Z08,Social Nagar,83.6,High,High
+2024-10-14,Z09,Rajiv Gandhi Nagar,61.7,Medium,Medium
+2024-09-03,Z01,Kumbharwada (Potters Colony),88.6,High,High
+2024-03-04,Z08,Social Nagar,51.9,Low,Low
+2024-08-27,Z04,60 Feet Road,84.9,High,High
+2024-05-11,Z09,Rajiv Gandhi Nagar,55.8,Low,Low
+2024-01-01,Z01,Kumbharwada (Potters Colony),61.0,Medium,Medium
+2024-09-26,Z08,Social Nagar,76.4,High,High
+2024-01-20,Z02,Koliwada,59.5,Low,Low
+2024-06-15,Z01,Kumbharwada (Potters Colony),88.9,High,High
+2024-06-13,Z03,90 Feet Road,83.6,High,High
+2024-10-26,Z05,Dharavi Cross Road,62.4,Medium,Medium
+2024-11-19,Z07,Matunga Labour Camp (adjoining),55.4,Low,Low
+2024-08-25,Z03,90 Feet Road,80.7,High,High
+2024-06-29,Z03,90 Feet Road,63.0,Medium,Medium
+2024-04-14,Z10,Shahu Nagar,56.8,Low,Low
+2024-07-14,Z10,Shahu Nagar,84.5,High,High
+2024-04-03,Z10,Shahu Nagar,54.4,Low,Low
+2024-12-27,Z08,Social Nagar,52.4,Low,Low
+2024-12-15,Z05,Dharavi Cross Road,60.4,Medium,Medium
+2024-08-31,Z08,Social Nagar,86.6,High,High
+2024-01-19,Z06,Kala Killa,57.3,Low,Low
+2024-12-10,Z04,60 Feet Road,52.4,Low,Low
+2024-12-27,Z02,Koliwada,57.0,Low,Low
+2024-06-30,Z07,Matunga Labour Camp (adjoining),83.5,High,High
+2024-05-30,Z01,Kumbharwada (Potters Colony),59.6,Low,Low
+2024-11-24,Z01,Kumbharwada (Potters Colony),61.2,Medium,Medium
+2024-07-01,Z06,Kala Killa,84.5,High,High
+2024-12-13,Z06,Kala Killa,54.8,Low,Low
+2024-12-14,Z10,Shahu Nagar,56.5,Low,Low
+2024-07-13,Z02,Koliwada,87.6,High,High
+2024-08-14,Z07,Matunga Labour Camp (adjoining),82.9,High,High
+2024-09-25,Z06,Kala Killa,84.5,High,High
+2024-03-18,Z07,Matunga Labour Camp (adjoining),53.7,Low,Low
+2024-10-27,Z02,Koliwada,65.4,Medium,Medium
+2024-06-30,Z09,Rajiv Gandhi Nagar,81.7,High,High
+2024-02-05,Z04,60 Feet Road,58.7,Low,Low
+2024-08-05,Z06,Kala Killa,82.6,High,High
+2024-10-14,Z05,Dharavi Cross Road,81.4,High,High
+2024-01-30,Z01,Kumbharwada (Potters Colony),62.1,Medium,Medium
+2024-01-13,Z09,Rajiv Gandhi Nagar,50.5,Low,Low
+2024-09-24,Z08,Social Nagar,75.2,High,High
+2024-08-16,Z02,Koliwada,83.2,High,High
+2024-09-28,Z04,60 Feet Road,86.9,High,High
+2024-09-25,Z07,Matunga Labour Camp (adjoining),80.2,High,High
+2024-05-24,Z04,60 Feet Road,59.8,Low,Low
+2024-01-17,Z10,Shahu Nagar,56.3,Low,Low
+2024-12-01,Z03,90 Feet Road,57.3,Low,Low
+2024-03-03,Z03,90 Feet Road,55.2,Low,Low
+2024-01-17,Z02,Koliwada,59.6,Low,Low
+2024-04-21,Z10,Shahu Nagar,54.5,Low,Low
+2024-06-04,Z09,Rajiv Gandhi Nagar,82.2,High,High
+2024-05-31,Z01,Kumbharwada (Potters Colony),60.7,Medium,Medium
+2024-05-31,Z04,60 Feet Road,59.9,Low,Low
+2024-08-24,Z06,Kala Killa,84.8,High,High
+2024-03-14,Z04,60 Feet Road,53.2,Low,Low
+2024-08-27,Z06,Kala Killa,84.2,High,High
+2024-04-25,Z02,Koliwada,62.5,Medium,Medium
+2024-02-10,Z05,Dharavi Cross Road,57.4,Low,Low
+2024-03-30,Z10,Shahu Nagar,59.3,Low,Low
+2024-03-19,Z08,Social Nagar,53.5,Low,Low
+2024-10-10,Z09,Rajiv Gandhi Nagar,71.8,Medium,Medium
+2024-03-04,Z05,Dharavi Cross Road,58.5,Low,Low
+2024-09-19,Z05,Dharavi Cross Road,75.6,High,Medium
+2024-03-13,Z08,Social Nagar,56.7,Low,Low
+2024-10-10,Z02,Koliwada,70.0,Medium,Medium
+2024-05-19,Z04,60 Feet Road,62.6,Medium,Medium
+2024-04-25,Z07,Matunga Labour Camp (adjoining),51.7,Low,Low
+2024-05-17,Z10,Shahu Nagar,66.0,Medium,Medium
+2024-02-12,Z07,Matunga Labour Camp (adjoining),53.6,Low,Low
+2024-07-01,Z10,Shahu Nagar,59.5,Low,Low
+2024-11-05,Z07,Matunga Labour Camp (adjoining),54.8,Low,Low
+2024-01-31,Z01,Kumbharwada (Potters Colony),58.8,Low,Low
+2024-09-27,Z07,Matunga Labour Camp (adjoining),82.0,High,High
+2024-11-09,Z09,Rajiv Gandhi Nagar,56.7,Low,Low
+2024-12-31,Z10,Shahu Nagar,58.0,Low,Low
+2024-06-26,Z05,Dharavi Cross Road,87.0,High,High
+2024-10-15,Z01,Kumbharwada (Potters Colony),89.7,High,High
+2024-08-10,Z10,Shahu Nagar,88.2,High,High
+2024-11-16,Z10,Shahu Nagar,57.7,Low,Low
+2024-03-10,Z05,Dharavi Cross Road,59.9,Low,Low
+2024-11-21,Z03,90 Feet Road,57.9,Low,Low
+2024-02-29,Z01,Kumbharwada (Potters Colony),60.7,Medium,Medium
+2024-01-03,Z10,Shahu Nagar,56.4,Low,Low
+2024-01-04,Z08,Social Nagar,55.5,Low,Low
+2024-12-08,Z05,Dharavi Cross Road,59.7,Low,Low
+2024-02-05,Z05,Dharavi Cross Road,56.9,Low,Low
+2024-05-12,Z06,Kala Killa,57.7,Low,Low
+2024-04-21,Z03,90 Feet Road,56.8,Low,Low
+2024-08-12,Z01,Kumbharwada (Potters Colony),89.3,High,High
+2024-04-16,Z06,Kala Killa,51.6,Low,Low
+2024-01-09,Z03,90 Feet Road,56.8,Low,Low
+2024-12-25,Z02,Koliwada,56.5,Low,Low
+2024-03-19,Z10,Shahu Nagar,55.9,Low,Low
+2024-02-11,Z07,Matunga Labour Camp (adjoining),50.5,Low,Low
+2024-10-21,Z07,Matunga Labour Camp (adjoining),57.9,Low,Low
+2024-05-23,Z02,Koliwada,60.7,Medium,Medium
+2024-07-13,Z03,90 Feet Road,83.9,High,High
+2024-06-18,Z08,Social Nagar,82.7,High,High
+2024-11-11,Z08,Social Nagar,59.9,Low,Low
+2024-01-04,Z06,Kala Killa,56.3,Low,Low
+2024-02-05,Z07,Matunga Labour Camp (adjoining),54.5,Low,Low
+2024-03-30,Z08,Social Nagar,54.8,Low,Low
+2024-11-23,Z10,Shahu Nagar,57.3,Low,Low
+2024-03-17,Z04,60 Feet Road,55.2,Low,Low
+2024-10-29,Z05,Dharavi Cross Road,62.5,Medium,Medium
+2024-04-06,Z04,60 Feet Road,59.7,Low,Low
+2024-02-29,Z06,Kala Killa,58.6,Low,Low
+2024-05-08,Z10,Shahu Nagar,61.3,Medium,Medium
+2024-11-22,Z06,Kala Killa,52.7,Low,Low
+2024-12-11,Z07,Matunga Labour Camp (adjoining),56.5,Low,Low
+2024-02-20,Z05,Dharavi Cross Road,58.1,Low,Low
+2024-03-31,Z02,Koliwada,56.1,Low,Low
+2024-10-27,Z05,Dharavi Cross Road,76.8,High,High
+2024-06-05,Z05,Dharavi Cross Road,88.2,High,High
+2024-01-12,Z09,Rajiv Gandhi Nagar,52.0,Low,Low
+2024-08-21,Z01,Kumbharwada (Potters Colony),88.9,High,High
+2024-09-22,Z10,Shahu Nagar,62.5,Medium,Medium
+2024-05-18,Z04,60 Feet Road,54.8,Low,Low
+2024-02-25,Z04,60 Feet Road,59.6,Low,Low
+2024-01-17,Z04,60 Feet Road,57.6,Low,Low
+2024-04-10,Z05,Dharavi Cross Road,59.2,Low,Low
+2024-04-28,Z06,Kala Killa,61.2,Medium,Medium
+2024-07-26,Z08,Social Nagar,59.1,Low,Low
+2024-04-10,Z04,60 Feet Road,56.2,Low,Low
+2024-04-02,Z03,90 Feet Road,55.4,Low,Low
+2024-09-05,Z05,Dharavi Cross Road,67.7,Medium,Medium
+2024-12-11,Z08,Social Nagar,55.7,Low,Low
+2024-04-17,Z09,Rajiv Gandhi Nagar,57.9,Low,Low
+2024-09-08,Z07,Matunga Labour Camp (adjoining),59.0,Low,Low
+2024-06-21,Z09,Rajiv Gandhi Nagar,83.1,High,High
+2024-10-18,Z08,Social Nagar,55.9,Low,Low
+2024-12-10,Z08,Social Nagar,55.0,Low,Low
+2024-05-19,Z07,Matunga Labour Camp (adjoining),63.6,Medium,Medium
+2024-06-15,Z02,Koliwada,84.6,High,High
+2024-06-19,Z10,Shahu Nagar,87.1,High,High
+2024-01-16,Z10,Shahu Nagar,56.0,Low,Low
+2024-01-07,Z06,Kala Killa,51.1,Low,Low
+2024-08-10,Z01,Kumbharwada (Potters Colony),87.4,High,High
+2024-10-11,Z09,Rajiv Gandhi Nagar,57.2,Low,Low
+2024-02-07,Z05,Dharavi Cross Road,56.6,Low,Low
+2024-01-07,Z08,Social Nagar,53.0,Low,Low
+2024-01-29,Z05,Dharavi Cross Road,59.0,Low,Low
+2024-12-12,Z05,Dharavi Cross Road,59.5,Low,Low
+2024-07-13,Z08,Social Nagar,85.6,High,High
+2024-11-04,Z03,90 Feet Road,60.8,Medium,Medium
+2024-11-16,Z05,Dharavi Cross Road,64.1,Medium,Medium
+2024-05-07,Z05,Dharavi Cross Road,60.1,Medium,Low
+2024-08-14,Z01,Kumbharwada (Potters Colony),87.9,High,High
+2024-11-08,Z02,Koliwada,57.0,Low,Low
+2024-04-10,Z09,Rajiv Gandhi Nagar,54.2,Low,Low
+2024-04-14,Z05,Dharavi Cross Road,58.4,Low,Low
+2024-10-29,Z01,Kumbharwada (Potters Colony),66.4,Medium,Medium
+2024-05-28,Z01,Kumbharwada (Potters Colony),73.1,Medium,Medium
+2024-03-06,Z01,Kumbharwada (Potters Colony),60.7,Medium,Medium
+2024-10-14,Z07,Matunga Labour Camp (adjoining),59.9,Low,Low
+2024-05-11,Z02,Koliwada,65.0,Medium,Medium
+2024-08-21,Z04,60 Feet Road,82.7,High,High
+2024-07-11,Z10,Shahu Nagar,87.0,High,High
+2024-03-18,Z04,60 Feet Road,55.4,Low,Low
+2024-07-13,Z09,Rajiv Gandhi Nagar,85.5,High,High
+2024-01-01,Z08,Social Nagar,55.1,Low,Low
+2024-02-09,Z05,Dharavi Cross Road,57.3,Low,Low
+2024-11-08,Z10,Shahu Nagar,59.3,Low,Low
+2024-12-22,Z02,Koliwada,56.9,Low,Low
+2024-12-06,Z06,Kala Killa,53.3,Low,Low
+2024-05-08,Z06,Kala Killa,61.3,Medium,Medium
+2024-08-08,Z06,Kala Killa,82.7,High,High
+2024-06-11,Z04,60 Feet Road,86.7,High,High
+2024-05-12,Z08,Social Nagar,57.7,Low,Low
+2024-07-23,Z01,Kumbharwada (Potters Colony),70.4,Medium,Medium
+2024-09-02,Z09,Rajiv Gandhi Nagar,82.4,High,High
+2024-03-28,Z03,90 Feet Road,55.5,Low,Low
+2024-08-01,Z08,Social Nagar,83.2,High,High
+2024-07-26,Z07,Matunga Labour Camp (adjoining),83.7,High,High
+2024-11-27,Z07,Matunga Labour Camp (adjoining),60.8,Medium,Medium
+2024-04-24,Z02,Koliwada,56.0,Low,Low
+2024-04-15,Z03,90 Feet Road,57.5,Low,Low
+2024-04-18,Z02,Koliwada,55.7,Low,Low
+2024-07-02,Z09,Rajiv Gandhi Nagar,84.8,High,High
+2024-06-25,Z01,Kumbharwada (Potters Colony),89.9,High,High
+2024-10-24,Z09,Rajiv Gandhi Nagar,65.7,Medium,Medium
+2024-08-25,Z06,Kala Killa,83.2,High,High
+2024-04-22,Z07,Matunga Labour Camp (adjoining),53.2,Low,Low
+2024-03-18,Z09,Rajiv Gandhi Nagar,51.8,Low,Low
+2024-02-15,Z03,90 Feet Road,52.6,Low,Low
+2024-07-02,Z03,90 Feet Road,85.2,High,High
+2024-05-27,Z02,Koliwada,63.7,Medium,Medium
+2024-11-17,Z03,90 Feet Road,53.1,Low,Low
+2024-01-08,Z10,Shahu Nagar,58.1,Low,Low
+2024-09-11,Z02,Koliwada,85.8,High,High
+2024-07-10,Z02,Koliwada,87.9,High,High
+2024-01-03,Z08,Social Nagar,58.7,Low,Low
+2024-08-08,Z09,Rajiv Gandhi Nagar,83.2,High,High
+2024-12-30,Z09,Rajiv Gandhi Nagar,52.8,Low,Low
+2024-09-03,Z06,Kala Killa,85.1,High,High
+2024-04-05,Z07,Matunga Labour Camp (adjoining),57.2,Low,Low
+2024-08-20,Z01,Kumbharwada (Potters Colony),88.0,High,High
+2024-10-18,Z03,90 Feet Road,60.2,Medium,Low
+2024-08-10,Z05,Dharavi Cross Road,88.4,High,High
+2024-09-22,Z06,Kala Killa,83.0,High,High
+2024-10-12,Z04,60 Feet Road,66.5,Medium,Medium
+2024-05-20,Z04,60 Feet Road,57.4,Low,Low
+2024-08-30,Z10,Shahu Nagar,81.2,High,High
+2024-03-24,Z04,60 Feet Road,57.6,Low,Low
+2024-01-02,Z04,60 Feet Road,54.0,Low,Low
+2024-05-16,Z08,Social Nagar,56.7,Low,Low
+2024-04-16,Z01,Kumbharwada (Potters Colony),61.0,Medium,Medium
+2024-02-23,Z04,60 Feet Road,58.0,Low,Low
+2024-03-23,Z01,Kumbharwada (Potters Colony),58.3,Low,Low
+2024-02-16,Z10,Shahu Nagar,54.7,Low,Low
+2024-07-21,Z05,Dharavi Cross Road,88.7,High,High
+2024-04-26,Z07,Matunga Labour Camp (adjoining),52.5,Low,Low
+2024-03-16,Z06,Kala Killa,56.4,Low,Low
+2024-12-30,Z05,Dharavi Cross Road,59.7,Low,Low
+2024-06-27,Z03,90 Feet Road,81.6,High,High
+2024-12-03,Z06,Kala Killa,52.8,Low,Low
+2024-01-27,Z06,Kala Killa,52.6,Low,Low
+2024-10-26,Z01,Kumbharwada (Potters Colony),61.7,Medium,Medium
+2024-02-13,Z08,Social Nagar,53.6,Low,Low
+2024-07-30,Z04,60 Feet Road,85.5,High,High
+2024-02-08,Z06,Kala Killa,50.2,Low,Low
+2024-11-30,Z02,Koliwada,57.8,Low,Low
+2024-02-15,Z01,Kumbharwada (Potters Colony),57.8,Low,Low
+2024-12-22,Z08,Social Nagar,55.9,Low,Low
+2024-05-15,Z04,60 Feet Road,55.1,Low,Low
+2024-09-28,Z03,90 Feet Road,73.9,Medium,Medium
+2024-11-10,Z09,Rajiv Gandhi Nagar,61.2,Medium,Medium
+2024-01-24,Z07,Matunga Labour Camp (adjoining),53.5,Low,Low
+2024-08-22,Z04,60 Feet Road,84.3,High,High
+2024-03-24,Z10,Shahu Nagar,55.9,Low,Low
+2024-12-25,Z09,Rajiv Gandhi Nagar,50.3,Low,Low
+2024-07-31,Z09,Rajiv Gandhi Nagar,85.0,High,High
+2024-10-09,Z05,Dharavi Cross Road,66.2,Medium,Medium
+2024-04-19,Z05,Dharavi Cross Road,55.9,Low,Low
+2024-11-14,Z04,60 Feet Road,54.2,Low,Low
+2024-06-07,Z10,Shahu Nagar,84.0,High,High
+2024-10-23,Z03,90 Feet Road,59.6,Low,Low
+2024-01-24,Z05,Dharavi Cross Road,57.2,Low,Low
+2024-08-02,Z09,Rajiv Gandhi Nagar,83.3,High,High
+2024-12-31,Z03,90 Feet Road,58.1,Low,Low
+2024-06-10,Z05,Dharavi Cross Road,86.3,High,High
+2024-06-27,Z04,60 Feet Road,88.0,High,High
+2024-09-22,Z07,Matunga Labour Camp (adjoining),58.5,Low,Low
+2024-04-30,Z06,Kala Killa,55.9,Low,Low
+2024-11-17,Z09,Rajiv Gandhi Nagar,60.1,Medium,Low
+2024-07-22,Z01,Kumbharwada (Potters Colony),90.1,High,High
+2024-09-24,Z03,90 Feet Road,83.6,High,High
+2024-12-16,Z04,60 Feet Road,54.8,Low,Low
+2024-11-05,Z10,Shahu Nagar,61.5,Medium,Medium
+2024-10-30,Z04,60 Feet Road,73.3,Medium,Medium
+2024-10-27,Z03,90 Feet Road,61.1,Medium,Medium
+2024-05-25,Z05,Dharavi Cross Road,61.3,Medium,Medium
+2024-05-11,Z06,Kala Killa,63.4,Medium,Medium
+2024-09-11,Z09,Rajiv Gandhi Nagar,62.2,Medium,Medium
+2024-04-29,Z04,60 Feet Road,54.0,Low,Low
+2024-06-04,Z02,Koliwada,86.4,High,High
+2024-01-18,Z06,Kala Killa,51.2,Low,Low
+2024-02-24,Z02,Koliwada,59.9,Low,Medium
+2024-10-28,Z02,Koliwada,79.3,High,High
+2024-10-05,Z01,Kumbharwada (Potters Colony),69.7,Medium,Medium
+2024-03-09,Z08,Social Nagar,53.5,Low,Low
+2024-07-30,Z10,Shahu Nagar,84.3,High,High
+2024-07-19,Z04,60 Feet Road,85.0,High,High
+2024-09-24,Z02,Koliwada,85.0,High,High
+2024-05-15,Z07,Matunga Labour Camp (adjoining),56.6,Low,Low
+2024-03-18,Z05,Dharavi Cross Road,56.0,Low,Low
+2024-07-06,Z10,Shahu Nagar,72.1,Medium,Medium
+2024-09-20,Z04,60 Feet Road,65.6,Medium,Medium
+2024-04-23,Z08,Social Nagar,59.2,Low,Low
+2024-03-26,Z02,Koliwada,60.3,Medium,Medium
+2024-05-04,Z07,Matunga Labour Camp (adjoining),54.7,Low,Low
+2024-09-15,Z09,Rajiv Gandhi Nagar,76.2,High,High
+2024-02-17,Z09,Rajiv Gandhi Nagar,55.6,Low,Low
+2024-07-28,Z02,Koliwada,87.0,High,High
+2024-02-20,Z08,Social Nagar,55.5,Low,Low
+2024-09-12,Z09,Rajiv Gandhi Nagar,78.5,High,High
+2024-02-26,Z07,Matunga Labour Camp (adjoining),55.5,Low,Low
+2024-04-03,Z04,60 Feet Road,55.6,Low,Low
+2024-03-30,Z04,60 Feet Road,56.1,Low,Low
+2024-07-26,Z09,Rajiv Gandhi Nagar,83.4,High,High
+2024-01-02,Z03,90 Feet Road,54.1,Low,Low
+2024-07-16,Z08,Social Nagar,83.8,High,High
+2024-02-16,Z04,60 Feet Road,57.5,Low,Low
+2024-08-07,Z02,Koliwada,86.7,High,High
+2024-02-22,Z01,Kumbharwada (Potters Colony),58.9,Low,Low
+2024-10-13,Z06,Kala Killa,72.4,Medium,Medium
+2024-08-31,Z09,Rajiv Gandhi Nagar,84.8,High,High
+2024-10-16,Z03,90 Feet Road,59.1,Low,Low
+2024-03-17,Z06,Kala Killa,53.2,Low,Low
+2024-09-28,Z05,Dharavi Cross Road,87.7,High,High
+2024-02-19,Z04,60 Feet Road,59.4,Low,Low
+2024-03-09,Z06,Kala Killa,53.5,Low,Low
+2024-06-29,Z06,Kala Killa,83.3,High,High
+2024-07-26,Z06,Kala Killa,82.0,High,High
+2024-04-08,Z03,90 Feet Road,52.7,Low,Low
+2024-04-20,Z03,90 Feet Road,57.4,Low,Low
+2024-07-25,Z10,Shahu Nagar,82.8,High,High
+2024-02-21,Z05,Dharavi Cross Road,57.8,Low,Low
+2024-10-13,Z05,Dharavi Cross Road,70.1,Medium,Medium
+2024-12-20,Z01,Kumbharwada (Potters Colony),61.1,Medium,Medium
+2024-09-09,Z04,60 Feet Road,84.6,High,High
+2024-04-13,Z10,Shahu Nagar,57.9,Low,Low
+2024-06-03,Z05,Dharavi Cross Road,64.9,Medium,Medium
+2024-11-16,Z06,Kala Killa,56.6,Low,Low
+2024-01-12,Z02,Koliwada,57.1,Low,Low
+2024-06-24,Z08,Social Nagar,83.5,High,High
+2024-05-31,Z05,Dharavi Cross Road,62.6,Medium,Medium
+2024-06-28,Z08,Social Nagar,85.0,High,High
+2024-01-22,Z09,Rajiv Gandhi Nagar,53.3,Low,Low
+2024-08-27,Z03,90 Feet Road,81.9,High,High
+2024-03-18,Z02,Koliwada,58.1,Low,Low
+2024-02-18,Z10,Shahu Nagar,56.2,Low,Low
+2024-01-01,Z05,Dharavi Cross Road,55.3,Low,Low
+2024-06-06,Z02,Koliwada,85.9,High,High
+2024-09-06,Z07,Matunga Labour Camp (adjoining),84.0,High,High
+2024-12-15,Z10,Shahu Nagar,59.8,Low,Low
+2024-09-10,Z01,Kumbharwada (Potters Colony),90.2,High,High
+2024-07-31,Z10,Shahu Nagar,86.1,High,High
+2024-10-22,Z09,Rajiv Gandhi Nagar,53.6,Low,Low
+2024-07-28,Z06,Kala Killa,83.9,High,High
+2024-01-16,Z04,60 Feet Road,51.9,Low,Low
+2024-02-01,Z01,Kumbharwada (Potters Colony),59.1,Low,Low
+2024-10-24,Z08,Social Nagar,55.8,Low,Low
+2024-07-12,Z06,Kala Killa,83.1,High,High
+2024-10-11,Z07,Matunga Labour Camp (adjoining),52.4,Low,Low
+2024-08-20,Z05,Dharavi Cross Road,87.4,High,High
+2024-08-01,Z07,Matunga Labour Camp (adjoining),83.9,High,High
+2024-10-02,Z09,Rajiv Gandhi Nagar,59.6,Low,Low
+2024-11-09,Z05,Dharavi Cross Road,71.4,Medium,Medium
+2024-11-18,Z05,Dharavi Cross Road,62.0,Medium,Medium
+2024-12-21,Z07,Matunga Labour Camp (adjoining),53.4,Low,Low
+2024-03-04,Z03,90 Feet Road,55.0,Low,Low
+2024-03-21,Z03,90 Feet Road,57.0,Low,Low
+2024-10-02,Z03,90 Feet Road,57.7,Low,Low
+2024-05-28,Z07,Matunga Labour Camp (adjoining),48.5,Low,Low
+2024-09-16,Z10,Shahu Nagar,83.9,High,High
+2024-06-29,Z07,Matunga Labour Camp (adjoining),57.8,Low,Low
+2024-02-17,Z10,Shahu Nagar,55.4,Low,Low
+2024-10-12,Z03,90 Feet Road,58.0,Low,Low
+2024-11-03,Z07,Matunga Labour Camp (adjoining),58.2,Low,Low
+2024-09-14,Z05,Dharavi Cross Road,87.6,High,High
+2024-06-23,Z03,90 Feet Road,86.0,High,High
+2024-09-14,Z04,60 Feet Road,84.6,High,High
+2024-04-01,Z05,Dharavi Cross Road,59.2,Low,Low
+2024-08-25,Z02,Koliwada,85.5,High,High
+2024-09-08,Z05,Dharavi Cross Road,78.0,High,High
+2024-03-31,Z06,Kala Killa,58.2,Low,Low
+2024-05-17,Z04,60 Feet Road,69.2,Medium,Medium
+2024-06-06,Z04,60 Feet Road,55.5,Low,Low
+2024-02-07,Z06,Kala Killa,53.3,Low,Low
+2024-12-13,Z10,Shahu Nagar,56.9,Low,Low
+2024-09-05,Z04,60 Feet Road,79.2,High,High
+2024-05-18,Z07,Matunga Labour Camp (adjoining),58.8,Low,Low
+2024-06-01,Z01,Kumbharwada (Potters Colony),88.0,High,High
+2024-08-16,Z10,Shahu Nagar,85.4,High,High
+2024-09-23,Z06,Kala Killa,68.9,Medium,Medium
+2024-12-04,Z04,60 Feet Road,53.4,Low,Low
+2024-02-25,Z05,Dharavi Cross Road,60.9,Medium,Medium
+2024-04-12,Z07,Matunga Labour Camp (adjoining),57.0,Low,Low
+2024-05-20,Z08,Social Nagar,56.2,Low,Low
+2024-07-13,Z04,60 Feet Road,85.4,High,High
+2024-04-21,Z09,Rajiv Gandhi Nagar,51.8,Low,Low
+2024-03-22,Z03,90 Feet Road,57.5,Low,Low
+2024-10-05,Z10,Shahu Nagar,68.6,Medium,Medium
+2024-01-22,Z10,Shahu Nagar,52.2,Low,Low
+2024-05-16,Z06,Kala Killa,68.8,Medium,Medium
+2024-01-06,Z06,Kala Killa,52.4,Low,Low
+2024-06-25,Z06,Kala Killa,83.5,High,High
+2024-08-11,Z01,Kumbharwada (Potters Colony),89.7,High,High
+2024-08-15,Z02,Koliwada,80.6,High,High
+2024-11-18,Z02,Koliwada,67.3,Medium,Medium
+2024-09-16,Z02,Koliwada,86.3,High,High
+2024-07-16,Z02,Koliwada,72.7,Medium,Medium
+2024-10-08,Z03,90 Feet Road,57.8,Low,Low
+2024-07-24,Z01,Kumbharwada (Potters Colony),79.1,High,High
+2024-11-11,Z04,60 Feet Road,61.1,Medium,Medium
+2024-11-16,Z03,90 Feet Road,73.6,Medium,Medium
+2024-09-03,Z02,Koliwada,87.0,High,High
+2024-12-09,Z06,Kala Killa,55.1,Low,Low
+2024-09-09,Z02,Koliwada,87.7,High,High
+2024-11-22,Z03,90 Feet Road,52.2,Low,Low
+2024-05-30,Z02,Koliwada,56.7,Low,Low
+2024-09-12,Z05,Dharavi Cross Road,87.0,High,High
+2024-07-05,Z10,Shahu Nagar,85.9,High,High
+2024-10-07,Z04,60 Feet Road,60.1,Medium,Low
+2024-12-16,Z09,Rajiv Gandhi Nagar,55.1,Low,Low
+2024-07-22,Z06,Kala Killa,84.4,High,High
+2024-03-11,Z02,Koliwada,58.3,Low,Low
+2024-12-30,Z04,60 Feet Road,57.0,Low,Low
+2024-01-03,Z06,Kala Killa,59.3,Low,Low
+2024-07-14,Z09,Rajiv Gandhi Nagar,81.8,High,High
+2024-08-19,Z07,Matunga Labour Camp (adjoining),74.8,Medium,Medium
+2024-11-12,Z07,Matunga Labour Camp (adjoining),57.4,Low,Low
+2024-10-17,Z04,60 Feet Road,63.2,Medium,Medium
+2024-02-09,Z03,90 Feet Road,52.7,Low,Low
+2024-08-16,Z09,Rajiv Gandhi Nagar,83.1,High,High
+2024-03-26,Z04,60 Feet Road,56.8,Low,Low
+2024-08-23,Z09,Rajiv Gandhi Nagar,81.2,High,High
+2024-05-10,Z07,Matunga Labour Camp (adjoining),53.6,Low,Low
+2024-11-28,Z05,Dharavi Cross Road,63.2,Medium,Medium
+2024-11-04,Z06,Kala Killa,64.4,Medium,Medium
+2024-05-19,Z03,90 Feet Road,64.7,Medium,Medium
+2024-07-15,Z04,60 Feet Road,85.9,High,High
+2024-09-17,Z04,60 Feet Road,85.6,High,High
+2024-07-05,Z07,Matunga Labour Camp (adjoining),81.3,High,High
+2024-02-22,Z05,Dharavi Cross Road,63.6,Medium,Medium
+2024-03-15,Z03,90 Feet Road,57.1,Low,Low
+2024-05-25,Z07,Matunga Labour Camp (adjoining),64.8,Medium,Medium
+2024-12-23,Z01,Kumbharwada (Potters Colony),59.9,Low,Low
+2024-09-18,Z02,Koliwada,61.0,Medium,Medium
+2024-07-25,Z03,90 Feet Road,84.4,High,High
+2024-08-11,Z04,60 Feet Road,86.9,High,High
+2024-01-21,Z01,Kumbharwada (Potters Colony),60.4,Medium,Medium
+2024-05-17,Z07,Matunga Labour Camp (adjoining),53.8,Low,Low
+2024-05-05,Z09,Rajiv Gandhi Nagar,54.0,Low,Low
+2024-10-20,Z08,Social Nagar,72.1,Medium,Medium
+2024-03-08,Z04,60 Feet Road,55.7,Low,Low
+2024-09-03,Z10,Shahu Nagar,83.2,High,High
+2024-07-15,Z09,Rajiv Gandhi Nagar,84.4,High,High
+2024-08-28,Z04,60 Feet Road,84.5,High,High
+2024-09-18,Z08,Social Nagar,84.8,High,High
+2024-10-15,Z09,Rajiv Gandhi Nagar,83.3,High,High
+2024-05-24,Z10,Shahu Nagar,58.2,Low,Low
+2024-03-26,Z03,90 Feet Road,55.4,Low,Low
+2024-08-02,Z08,Social Nagar,83.6,High,High
+2024-09-02,Z05,Dharavi Cross Road,59.6,Low,Low
+2024-06-02,Z05,Dharavi Cross Road,87.4,High,High
+2024-11-25,Z04,60 Feet Road,61.5,Medium,Medium
+2024-11-05,Z05,Dharavi Cross Road,59.6,Low,Low
+2024-06-18,Z05,Dharavi Cross Road,85.0,High,High
+2024-08-15,Z04,60 Feet Road,79.5,High,High
+2024-01-10,Z06,Kala Killa,53.7,Low,Low
+2024-09-30,Z01,Kumbharwada (Potters Colony),75.7,High,High
+2024-06-06,Z08,Social Nagar,85.2,High,High
+2024-05-15,Z03,90 Feet Road,63.3,Medium,Medium
+2024-11-20,Z03,90 Feet Road,64.4,Medium,Medium
+2024-11-24,Z10,Shahu Nagar,64.5,Medium,Medium
+2024-06-09,Z08,Social Nagar,83.5,High,High
+2024-05-04,Z08,Social Nagar,64.7,Medium,Medium
+2024-06-03,Z04,60 Feet Road,86.5,High,High
+2024-01-22,Z02,Koliwada,58.5,Low,Low
+2024-07-20,Z09,Rajiv Gandhi Nagar,83.0,High,High
+2024-09-05,Z01,Kumbharwada (Potters Colony),76.6,High,High
+2024-01-05,Z07,Matunga Labour Camp (adjoining),53.7,Low,Low
+2024-05-05,Z05,Dharavi Cross Road,57.4,Low,Low
+2024-03-02,Z01,Kumbharwada (Potters Colony),58.9,Low,Low
+2024-03-25,Z04,60 Feet Road,60.8,Medium,Medium
+2024-08-01,Z09,Rajiv Gandhi Nagar,83.4,High,High
+2024-02-29,Z04,60 Feet Road,55.5,Low,Low
+2024-10-19,Z08,Social Nagar,65.4,Medium,Medium
+2024-03-13,Z05,Dharavi Cross Road,60.1,Medium,Medium
+2024-04-19,Z07,Matunga Labour Camp (adjoining),56.5,Low,Low
+2024-05-28,Z02,Koliwada,69.0,Medium,Medium
+2024-07-12,Z03,90 Feet Road,85.1,High,High
+2024-07-26,Z03,90 Feet Road,84.1,High,High
+2024-03-13,Z03,90 Feet Road,57.4,Low,Low
+2024-05-15,Z10,Shahu Nagar,58.0,Low,Low
+2024-06-14,Z02,Koliwada,88.0,High,High
+2024-06-10,Z09,Rajiv Gandhi Nagar,80.5,High,High
+2024-05-19,Z09,Rajiv Gandhi Nagar,58.3,Low,Low
+2024-03-01,Z05,Dharavi Cross Road,58.4,Low,Low
+2024-08-24,Z05,Dharavi Cross Road,86.4,High,High
+2024-12-12,Z06,Kala Killa,52.6,Low,Low
+2024-12-30,Z06,Kala Killa,57.5,Low,Low
+2024-03-31,Z09,Rajiv Gandhi Nagar,53.6,Low,Low
+2024-12-22,Z09,Rajiv Gandhi Nagar,54.4,Low,Low
+2024-12-13,Z09,Rajiv Gandhi Nagar,53.5,Low,Low
+2024-08-24,Z02,Koliwada,82.9,High,High
+2024-07-21,Z03,90 Feet Road,84.7,High,High
+2024-04-15,Z10,Shahu Nagar,58.9,Low,Low
+2024-03-21,Z02,Koliwada,56.9,Low,Low
+2024-12-17,Z05,Dharavi Cross Road,59.3,Low,Low
+2024-10-16,Z04,60 Feet Road,59.8,Low,Low
+2024-09-20,Z02,Koliwada,87.8,High,High
+2024-01-18,Z09,Rajiv Gandhi Nagar,51.7,Low,Low
+2024-06-24,Z09,Rajiv Gandhi Nagar,84.3,High,High
+2024-07-08,Z01,Kumbharwada (Potters Colony),83.2,High,High
+2024-11-12,Z03,90 Feet Road,57.9,Low,Low
+2024-05-04,Z10,Shahu Nagar,61.5,Medium,Medium
+2024-04-23,Z02,Koliwada,58.9,Low,Low
+2024-03-23,Z09,Rajiv Gandhi Nagar,56.5,Low,Low
+2024-11-27,Z03,90 Feet Road,57.1,Low,Low
+2024-12-16,Z02,Koliwada,57.8,Low,Low
+2024-06-11,Z07,Matunga Labour Camp (adjoining),81.9,High,High
+2024-07-08,Z07,Matunga Labour Camp (adjoining),81.5,High,High
+2024-04-26,Z09,Rajiv Gandhi Nagar,54.2,Low,Low
+2024-02-10,Z02,Koliwada,54.6,Low,Low
+2024-01-21,Z03,90 Feet Road,54.4,Low,Low
+2024-04-16,Z09,Rajiv Gandhi Nagar,51.1,Low,Low
+2024-10-07,Z03,90 Feet Road,68.6,Medium,Medium
+2024-12-18,Z01,Kumbharwada (Potters Colony),60.0,Medium,Medium
+2024-06-04,Z10,Shahu Nagar,87.4,High,High
+2024-05-24,Z08,Social Nagar,54.8,Low,Low
+2024-01-09,Z10,Shahu Nagar,58.1,Low,Low
+2024-04-24,Z06,Kala Killa,58.6,Low,Low
+2024-04-13,Z08,Social Nagar,58.8,Low,Low
+2024-04-16,Z08,Social Nagar,57.6,Low,Low
+2024-12-05,Z05,Dharavi Cross Road,61.1,Medium,Medium
+2024-07-08,Z03,90 Feet Road,84.7,High,High
+2024-01-11,Z06,Kala Killa,56.4,Low,Low
+2024-03-12,Z08,Social Nagar,56.3,Low,Low
+2024-08-20,Z03,90 Feet Road,84.3,High,High

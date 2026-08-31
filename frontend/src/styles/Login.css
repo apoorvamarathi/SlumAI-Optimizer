@@ -1,0 +1,284 @@
+/* ============================================================
+   Login Page – Professional & Modern
+   ============================================================ */
+
+/* ---------- Page Container ---------- */
+.login-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 40%, #f1f5f9 100%);
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ---------- Login Card ---------- */
+.login-card {
+    width: 100%;
+    max-width: 440px;
+    padding: 40px 38px 44px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border-radius: 24px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow: 0 20px 60px rgba(37, 99, 235, 0.10), 0 8px 24px rgba(0, 0, 0, 0.04);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    animation: cardFadeIn 0.6s ease-out;
+}
+
+@keyframes cardFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(24px) scale(0.97);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.login-card:hover {
+    box-shadow: 0 24px 72px rgba(37, 99, 235, 0.14), 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+/* ---------- Header ---------- */
+.login-header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.login-header h1 {
+    margin: 0 0 6px;
+    color: #0f172a;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.login-header h1::before {
+    content: '⚡';
+    margin-right: 8px;
+    display: inline-block;
+}
+
+.login-header h2 {
+    margin: 0 0 6px;
+    color: #1e293b;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+}
+
+.login-header p {
+    margin: 0;
+    color: #64748b;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+/* ---------- Error Message ---------- */
+.login-error {
+    margin-bottom: 24px;
+    padding: 14px 18px;
+    border-radius: 12px;
+    background: #fef2f2;
+    border-left: 4px solid #dc2626;
+    color: #991b1b;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 2px 8px rgba(220, 38, 38, 0.06);
+}
+
+.login-error::before {
+    content: '⚠️';
+    font-size: 18px;
+}
+
+/* ---------- Form ---------- */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login-form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.login-form-group label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1e293b;
+    letter-spacing: 0.2px;
+}
+
+.login-form-group input {
+    width: 100%;
+    padding: 14px 16px;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 12px;
+    font-size: 15px;
+    background: #ffffff;
+    color: #0f172a;
+    outline: none;
+    transition: border-color 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
+}
+
+.login-form-group input:focus {
+    border-color: #2563eb;
+    background: #ffffff;
+    box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.10), 0 2px 8px rgba(37, 99, 235, 0.05);
+}
+
+.login-form-group input::placeholder {
+    color: #94a3b8;
+    font-weight: 400;
+}
+
+.login-form-group input:user-invalid {
+    border-color: #dc2626;
+}
+
+/* ---------- Submit Button ---------- */
+.login-button {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 14px rgba(37, 99, 235, 0.25);
+    letter-spacing: 0.3px;
+    position: relative;
+    overflow: hidden;
+}
+
+.login-button::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.15), transparent 60%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.login-button:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 28px rgba(37, 99, 235, 0.35);
+    background: linear-gradient(135deg, #1d4ed8, #1e40af);
+}
+
+.login-button:hover:not(:disabled)::after {
+    opacity: 1;
+}
+
+.login-button:active:not(:disabled) {
+    transform: scale(0.97) translateY(0);
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.2);
+}
+
+.login-button:disabled {
+    background: #93c5fd;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+/* ---------- Footer ---------- */
+.login-footer {
+    margin-top: 28px;
+    text-align: center;
+    font-size: 14px;
+    border-top: 1px solid #e9edf2;
+    padding-top: 24px;
+}
+
+.login-footer p {
+    display: inline;
+    color: #64748b;
+    font-weight: 400;
+}
+
+.login-footer a {
+    margin-left: 6px;
+    color: #2563eb;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease, border-bottom 0.2s ease;
+    border-bottom: 2px solid transparent;
+}
+
+.login-footer a:hover {
+    color: #1d4ed8;
+    border-bottom-color: #1d4ed8;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 480px) {
+    .login-page {
+        padding: 12px;
+        background: linear-gradient(135deg, #eef2ff, #dbeafe);
+    }
+
+    .login-card {
+        padding: 28px 20px 32px;
+        border-radius: 20px;
+        max-width: 100%;
+        background: rgba(255, 255, 255, 0.85);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+    }
+
+    .login-header h1 {
+        font-size: 26px;
+    }
+    .login-header h2 {
+        font-size: 20px;
+    }
+    .login-header p {
+        font-size: 14px;
+    }
+
+    .login-form-group input {
+        padding: 12px 14px;
+        font-size: 14px;
+    }
+
+    .login-button {
+        padding: 12px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 380px) {
+    .login-card {
+        padding: 20px 16px 24px;
+    }
+    .login-header h1 {
+        font-size: 22px;
+    }
+    .login-header h2 {
+        font-size: 18px;
+    }
+    .login-header p {
+        font-size: 13px;
+    }
+    .login-form-group input {
+        padding: 10px 12px;
+        font-size: 13px;
+    }
+    .login-button {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
