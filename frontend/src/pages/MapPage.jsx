@@ -47,8 +47,6 @@ function getRiskLevel(riskScore) {
 function MapPage() {
 
   const [zones, setZones] = useState([]);
-  const [recommendations, setRecommendations] = useState([]);
-
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
